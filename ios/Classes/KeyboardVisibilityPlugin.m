@@ -47,7 +47,7 @@
     if (!self.isVisible) {
         self.isVisible = YES;
         if (self.flutterEventListening) {
-            self.flutterEventSink([NSNumber numberWithInt:1]);
+            self.flutterEventSink([NSNumber numberWithBool:YES]);
         }
     }
 }
@@ -58,7 +58,7 @@
     if (self.isVisible) {
         self.isVisible = NO;
         if (self.flutterEventListening) {
-            self.flutterEventSink([NSNumber numberWithInt:0]);
+            self.flutterEventSink([NSNumber numberWithBool:NO]);
         }
     }
 }
@@ -69,7 +69,7 @@
 
     // if keyboard is visible at startup, let our subscriber know
     if (self.isVisible) {
-        self.flutterEventSink([NSNumber numberWithInt:1]);
+        self.flutterEventSink([NSNumber numberWithBool:YES]);
     }
     
     return nil;
