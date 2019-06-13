@@ -104,8 +104,10 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
         KeyboardVisibilityPlugin instance = new KeyboardVisibilityPlugin(registrar);
         eventChannel.setStreamHandler(instance);
 
-        //registrar.activity().getApplication().registerActivityLifecycleCallbacks(instance);
-        registrar.activeContext().getApplicationContext().registerActivityLifecycleCallbacks(instance);
+        if(registrar.activity() != null)
+        {
+            registrar.activity().getApplication().registerActivityLifecycleCallbacks(instance);
+        }
     }
 
     @Override
