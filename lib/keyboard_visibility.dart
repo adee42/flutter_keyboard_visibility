@@ -1,5 +1,6 @@
-import 'package:flutter/services.dart';
 import 'dart:async';
+
+import 'package:flutter/services.dart';
 
 /// A base class to handle the subscribing events
 class KeyboardVisibilitySubscriber {
@@ -20,10 +21,8 @@ class KeyboardVisibilitySubscriber {
 
 /// The notification class that handles all information
 class KeyboardVisibilityNotification {
-  static const EventChannel _keyboardVisibilityStream =
-      const EventChannel('github.com/adee42/flutter_keyboard_visibility');
-  static Map<int, KeyboardVisibilitySubscriber> _list =
-      Map<int, KeyboardVisibilitySubscriber>();
+  static const EventChannel _keyboardVisibilityStream = const EventChannel('github.com/adee42/flutter_keyboard_visibility');
+  static Map<int, KeyboardVisibilitySubscriber> _list = Map<int, KeyboardVisibilitySubscriber>();
   static StreamSubscription _keyboardVisibilitySubscription;
   static int _currentIndex = 0;
 
@@ -32,9 +31,7 @@ class KeyboardVisibilityNotification {
 
   /// Constructs a new [KeyboardVisibilityNotification]
   KeyboardVisibilityNotification() {
-    _keyboardVisibilitySubscription ??= _keyboardVisibilityStream
-        .receiveBroadcastStream()
-        .listen(onKeyboardEvent);
+    _keyboardVisibilitySubscription ??= _keyboardVisibilityStream.receiveBroadcastStream().listen(onKeyboardEvent);
   }
 
   /// Internal function to handle native code channel communication
@@ -62,10 +59,8 @@ class KeyboardVisibilityNotification {
   /// [onShow] is called when the keyboard appears
   /// [onHide] is called when the keyboard disappears
   /// Returns a subscribing id that can be used to unsubscribe
-  int addNewListener(
-      {Function(bool) onChange, Function onShow, Function onHide}) {
-    _list[_currentIndex] = KeyboardVisibilitySubscriber(
-        onChange: onChange, onShow: onShow, onHide: onHide);
+  int addNewListener({Function(bool) onChange, Function onShow, Function onHide}) {
+    _list[_currentIndex] = KeyboardVisibilitySubscriber(onChange: onChange, onShow: onShow, onHide: onHide);
     return _currentIndex++;
   }
 
@@ -83,9 +78,9 @@ class KeyboardVisibilityNotification {
   }
 
   /// Internal function to clear class on dispose
-  dispose() {
-    if (_list.length == 0) {
-      _keyboardVisibilitySubscription?.cancel()?.catchError((e) {});
+  void dispose() {
+    if (_list.isEmpty) {
+      _keyboardVisibilitySubscription?.cancel()?.catchError(() {});
       _keyboardVisibilitySubscription = null;
     }
   }

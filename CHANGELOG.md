@@ -1,3 +1,8 @@
+## [0.6.0] - 15-11-2019
+
+* update gradle
+* migrate to androidX
+
 ## [0.5.6] - 13-05-2019
 
 * added null check in Android layout callback
