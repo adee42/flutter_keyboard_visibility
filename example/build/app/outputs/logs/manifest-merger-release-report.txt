@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:keyboard_visibility] /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/keyboard_visibility/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/ff8325b89b3dd94978f1ce748adb419f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/06f732e5c4ae85a72b93dd05e50d5978/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/d4efa4801ffa1019d29729be2c5f46f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/a2052fd8277241aaed4e2d5d2213cfc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/0453c773ff3459dab7c8f477bab9fe38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/333bceb32c246d44cef9bca331d3a0c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/dc2023107e5e64fc5afd5f6737ca7c31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/61204a6c132184ce8c199f25b8861a48/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/157cad4e1ef69d1f25a39c6986911de2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/d9e05cdc1a96c1466c813a72b3e91b4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/e9bbdb86f5bdc4c7729c08af349b469f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/6eb6c5fa821d84b88588b3edeebe6ecd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/fb055665f3ea60c719433815e7f2d504/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/205bd895ec7d844b5457a607186752e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/8d4d2707cc431851e8fdffda1e6ca031/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/9600e8d5eebaaf12f0efe535cc74372e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/32387254a806425016d678f8751108a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/db87d374a78b77aca9e43138986ba961/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/6ec0b3a923cc5ae59c9e2fbd90786057/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/12f5932f51f53cf04a7e80916e79cf8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/0aad586c71697ca4faf4b09321f114c2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:2:5-58
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/8d4d2707cc431851e8fdffda1e6ca031/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/8d4d2707cc431851e8fdffda1e6ca031/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:17:9-52
+	android:icon
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.github.adee42.keyboardvisibilityexample.MainActivity
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:keyboard_visibility] /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/keyboard_visibility/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:keyboard_visibility] /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/keyboard_visibility/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/ff8325b89b3dd94978f1ce748adb419f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/ff8325b89b3dd94978f1ce748adb419f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/06f732e5c4ae85a72b93dd05e50d5978/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/06f732e5c4ae85a72b93dd05e50d5978/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/d4efa4801ffa1019d29729be2c5f46f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/d4efa4801ffa1019d29729be2c5f46f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/a2052fd8277241aaed4e2d5d2213cfc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/a2052fd8277241aaed4e2d5d2213cfc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/0453c773ff3459dab7c8f477bab9fe38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/0453c773ff3459dab7c8f477bab9fe38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/333bceb32c246d44cef9bca331d3a0c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/333bceb32c246d44cef9bca331d3a0c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/dc2023107e5e64fc5afd5f6737ca7c31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/dc2023107e5e64fc5afd5f6737ca7c31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/61204a6c132184ce8c199f25b8861a48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/61204a6c132184ce8c199f25b8861a48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/157cad4e1ef69d1f25a39c6986911de2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/157cad4e1ef69d1f25a39c6986911de2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/d9e05cdc1a96c1466c813a72b3e91b4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/d9e05cdc1a96c1466c813a72b3e91b4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/e9bbdb86f5bdc4c7729c08af349b469f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/e9bbdb86f5bdc4c7729c08af349b469f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/6eb6c5fa821d84b88588b3edeebe6ecd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/6eb6c5fa821d84b88588b3edeebe6ecd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/fb055665f3ea60c719433815e7f2d504/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/fb055665f3ea60c719433815e7f2d504/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/205bd895ec7d844b5457a607186752e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/205bd895ec7d844b5457a607186752e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/8d4d2707cc431851e8fdffda1e6ca031/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/8d4d2707cc431851e8fdffda1e6ca031/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/9600e8d5eebaaf12f0efe535cc74372e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/9600e8d5eebaaf12f0efe535cc74372e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/32387254a806425016d678f8751108a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/32387254a806425016d678f8751108a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/db87d374a78b77aca9e43138986ba961/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/db87d374a78b77aca9e43138986ba961/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/6ec0b3a923cc5ae59c9e2fbd90786057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/6ec0b3a923cc5ae59c9e2fbd90786057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/12f5932f51f53cf04a7e80916e79cf8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/12f5932f51f53cf04a7e80916e79cf8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/0aad586c71697ca4faf4b09321f114c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/0aad586c71697ca4faf4b09321f114c2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/AndroidManifest.xml

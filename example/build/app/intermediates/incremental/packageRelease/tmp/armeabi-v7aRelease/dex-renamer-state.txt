@@ -1,0 +1,4 @@
+#Fri Mar 06 11:08:00 IST 2020
+base.0=/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/transforms/r8/release/1
+path.0=classes.dex
+renamed.0=classes.dex

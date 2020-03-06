@@ -1,0 +1,71 @@
+Flutter crash report; please file at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter build apk --split-per-abi
+
+## exception
+
+ProcessException: ProcessException: Permission denied
+  Command: /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/android/gradlew -I=/Users/faiyyazkhatri/StudioProjects/flutter/packages/flutter_tools/gradle/aar_init_script.gradle -Pflutter-root=/Users/faiyyazkhatri/StudioProjects/flutter -Poutput-dir=/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app -Pis-plugin=true -Ptarget-platform=android-arm,android-arm64,android-x64 assembleAarRelease
+
+```
+#0      _DefaultProcessUtils.run (package:flutter_tools/src/base/process.dart:266:37)
+<asynchronous suspension>
+#1      buildGradleAar (package:flutter_tools/src/android/gradle.dart:548:33)
+#2      buildPluginsAsAar (package:flutter_tools/src/android/gradle.dart:711:13)
+#3      buildGradleApp (package:flutter_tools/src/android/gradle.dart:257:11)
+#4      _AsyncAwaitCompleter.start (dart:async-patch/async_patch.dart:45:6)
+#5      buildGradleApp (package:flutter_tools/src/android/gradle.dart:218:28)
+#6      buildGradleApp (package:flutter_tools/src/android/gradle.dart:415:19)
+#7      _asyncThenWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:73:64)
+#8      _rootRunUnary (dart:async/zone.dart:1134:38)
+#9      _CustomZone.runUnary (dart:async/zone.dart:1031:19)
+#10     _FutureListener.handleValue (dart:async/future_impl.dart:139:18)
+#11     Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:680:45)
+#12     Future._propagateToListeners (dart:async/future_impl.dart:709:32)
+#13     Future._completeWithValue (dart:async/future_impl.dart:524:5)
+#14     Future._asyncComplete.<anonymous closure> (dart:async/future_impl.dart:554:7)
+#15     _rootRun (dart:async/zone.dart:1126:13)
+#16     _CustomZone.run (dart:async/zone.dart:1023:19)
+#17     _CustomZone.runGuarded (dart:async/zone.dart:925:7)
+#18     _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:965:23)
+#19     _microtaskLoop (dart:async/schedule_microtask.dart:43:21)
+#20     _startMicrotaskLoop (dart:async/schedule_microtask.dart:52:5)
+#21     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:118:13)
+#22     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:175:5)
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, v1.12.13+hotfix.8, on Mac OS X 10.15.3 19D76, locale en-IN)
+    [32m•[39m Flutter version 1.12.13+hotfix.8 at /Users/faiyyazkhatri/StudioProjects/flutter
+    [32m•[39m Framework revision 0b8abb4724 (3 weeks ago), 2020-02-11 11:44:36 -0800
+    [32m•[39m Engine revision e1e6ced81d
+    [32m•[39m Dart version 2.7.0
+
+[32m[✓][39m Android toolchain - develop for Android devices (Android SDK version 29.0.3)
+    [32m•[39m Android SDK at /Users/faiyyazkhatri/Library/Android/sdk
+    [32m•[39m Android NDK location not configured (optional; useful for native profiling support)
+    [32m•[39m Platform android-29, build-tools 29.0.3
+    [32m•[39m Java binary at: /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java
+    [32m•[39m Java version OpenJDK Runtime Environment (build 1.8.0_212-release-1586-b4-5784211)
+    [32m•[39m All Android licenses accepted.
+
+[32m[✓][39m Xcode - develop for iOS and macOS (Xcode 11.3.1)
+    [32m•[39m Xcode at /Applications/Xcode.app/Contents/Developer
+    [32m•[39m Xcode 11.3.1, Build version 11C504
+    [32m•[39m CocoaPods version 1.8.4
+
+[32m[✓][39m Android Studio (version 3.6)
+    [32m•[39m Android Studio at /Applications/Android Studio.app/Contents
+    [32m•[39m Flutter plugin version 44.0.2
+    [32m•[39m Dart plugin version 192.7761
+    [32m•[39m Java version OpenJDK Runtime Environment (build 1.8.0_212-release-1586-b4-5784211)
+
+[33m[!][39m Connected device
+    [33m![39m No devices available
+
+[33m![39m Doctor found issues in 1 category.
+```

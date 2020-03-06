@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7536def-3db9-4e53-b9ce-b63732a0ad3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/android_aot_bundle_release_android-arm.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/android_aot_bundle_release_android-arm64.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/android_aot_bundle_release_android-x64.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/android_aot_release_android-arm.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/android_aot_release_android-arm64.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/android_aot_release_android-x64.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/aot_android_asset_bundle.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/arm64-v8a/app.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/arm64-v8a/gen_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/armeabi-v7a/app.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/armeabi-v7a/gen_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/kernel_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/x86_64/app.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.dart_tool/flutter_build/d15a9e488308f6f6513fd9a2df118738/x86_64/gen_snapshot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/generated/source/buildConfig/release/com/github/adee42/keyboardvisibilityexample/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/apk_list/release/mainApkListPersistenceRelease/apk-list.gson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/release.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-as.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-b+sr+Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-en-rAU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-en-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-en-rGB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-en-rIN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-en-rXC.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-es-rUS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-fr-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-iw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-pt-rBR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-pt-rPT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-v16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-zh-rCN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-zh-rHK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-zh-rTW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values-zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/multi-v2/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/blame/res/release/single/release.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/compatible_screen_manifest/release/createReleaseCompatibleScreenManifests/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/arm64-v8a/app.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/armeabi-v7a/app.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/flutter_build.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/libs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/flutter/release/x86_64/app.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-am/values-am.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ar/values-ar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-as/values-as.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-az/values-az.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-bs/values-bs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ca/values-ca.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-el/values-el.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rCA/values-en-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu/values-eu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr/values-fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-gu/values-gu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-hy/values-hy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-km/values-km.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-kn/values-kn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ko/values-ko.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ky/values-ky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-lo/values-lo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-mk/values-mk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ml/values-ml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr/values-mr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-my/values-my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-nb/values-nb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-nl/values-nl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pa/values-pa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt/values-pt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-si/values-si.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sl/values-sl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ta/values-ta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-th/values-th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-uk/values-uk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur/values-ur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/mergeReleaseShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/incremental/processReleaseResources/resources-list-for-resources-x86_64Release.ap_.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/instant_run_merged_manifests/release/processReleaseManifest/instant-run/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-hdpi-v4/notification_bg_low_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-hdpi-v4/notification_bg_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-mdpi-v4/notification_bg_low_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-mdpi-v4/notification_bg_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-v21/notification_action_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-xhdpi-v4/notification_bg_normal.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable/notification_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable/notification_bg_low.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable/notification_icon_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/drawable/notification_tile_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout-v16/notification_template_custom_big.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout-v21/notification_action.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout-v21/notification_action_tombstone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout-v21/notification_template_custom_big.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout-v21/notification_template_icon_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout/notification_action.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout/notification_action_tombstone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout/notification_template_icon_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout/notification_template_part_chronometer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/layout/notification_template_part_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/mipmap-hdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/mipmap-mdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/mipmap-xhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/mipmap-xxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/mipmap-xxxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-af/values-af.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-am/values-am.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ar/values-ar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-as/values-as.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-az/values-az.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-b+sr+Latn/values-b+sr+Latn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-be/values-be.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-bg/values-bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-bn/values-bn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-bs/values-bs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ca/values-ca.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-da/values-da.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-de/values-de.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-el/values-el.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-en-rAU/values-en-rAU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-en-rCA/values-en-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-en-rGB/values-en-rGB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-en-rXC/values-en-rXC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-es-rUS/values-es-rUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-es/values-es.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-et/values-et.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-eu/values-eu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-fa/values-fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-fi/values-fi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-fr/values-fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-gl/values-gl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-gu/values-gu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-hr/values-hr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-hy/values-hy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-in/values-in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-is/values-is.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ka/values-ka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-kk/values-kk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-km/values-km.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-kn/values-kn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ko/values-ko.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ky/values-ky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-lo/values-lo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-lt/values-lt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-lv/values-lv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-mk/values-mk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ml/values-ml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-mn/values-mn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-mr/values-mr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ms/values-ms.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-my/values-my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-nb/values-nb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ne/values-ne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-nl/values-nl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-or/values-or.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-pa/values-pa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-pt/values-pt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ro/values-ro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ru/values-ru.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-si/values-si.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-sk/values-sk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-sl/values-sl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-sq/values-sq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-sr/values-sr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-sv/values-sv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ta/values-ta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-te/values-te.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-th/values-th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-tl/values-tl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-tr/values-tr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-uk/values-uk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-ur/values-ur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-uz/values-uz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-v16/values-v16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-v21/values-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-vi/values-vi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values-zu/values-zu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged-not-compiled-resources/release/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_assets/release/mergeReleaseAssets/out/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/arm64-v8a/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/armeabi-v7a/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/x86_64/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout_notification_action.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-af_values-af.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-am_values-am.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ar_values-ar.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-as_values-as.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-az_values-az.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-be_values-be.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-bg_values-bg.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-bn_values-bn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-bs_values-bs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ca_values-ca.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-cs_values-cs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-da_values-da.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-de_values-de.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-el_values-el.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-en-rCA_values-en-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-en-rXC_values-en-rXC.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-es_values-es.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-et_values-et.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-eu_values-eu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-fa_values-fa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-fi_values-fi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-gl_values-gl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-gu_values-gu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-hi_values-hi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-hr_values-hr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-hu_values-hu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-hy_values-hy.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-in_values-in.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-is_values-is.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-it_values-it.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-iw_values-iw.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ja_values-ja.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ka_values-ka.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-kk_values-kk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-km_values-km.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-kn_values-kn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ko_values-ko.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ky_values-ky.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-lo_values-lo.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-lt_values-lt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-lv_values-lv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-mk_values-mk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ml_values-ml.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-mn_values-mn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-mr_values-mr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ms_values-ms.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-my_values-my.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-nb_values-nb.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-nl_values-nl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-or_values-or.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-pa_values-pa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-pl_values-pl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-pt_values-pt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ro_values-ro.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ru_values-ru.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-si_values-si.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-sl_values-sl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-sq_values-sq.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-sr_values-sr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-sv_values-sv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-sw_values-sw.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ta_values-ta.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-te_values-te.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-th_values-th.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-tl_values-tl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-tr_values-tr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-ur_values-ur.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-uz_values-uz.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-v16_values-v16.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-vi_values-vi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values-zu_values-zu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/res/merged/release/values_values.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/intermediates/split_list/release/splitsDiscoveryTaskRelease/split-list.gson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/outputs/logs/manifest-merger-release-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/app/tmp/packLibsflutterBuildRelease/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/intermediates/proguard-files/proguard-android-optimize.txt-3.2.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/intermediates/proguard-files/proguard-android.txt-3.2.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/intermediates/proguard-files/proguard-defaults.txt-3.2.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/arch/core/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/asynclayoutinflater/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/coordinatorlayout/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/core/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/cursoradapter/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/customview/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/documentfile/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/drawerlayout/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/fragment/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/interpolator/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/legacy/coreui/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/legacy/coreutils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/lifecycle/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/lifecycle/livedata/core/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/lifecycle/viewmodel/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/loader/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/localbroadcastmanager/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/print/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/slidingpanelayout/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/swiperefreshlayout/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/versionedparcelable/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/androidx/viewpager/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/com/github/adee42/keyboardvisibility/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/generated/source/buildConfig/release/com/github/adee42/keyboardvisibility/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/incremental/mergeReleaseShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/incremental/packageReleaseAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/incremental/packageReleaseResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/incremental/release-mergeJniLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/merged_manifests/release/processReleaseManifest/merged/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/symbols/release/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/intermediates/transforms/mergeJniLibs/release/__content__.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/keyboard_visibility/outputs/logs/manifest-merger-release-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/keyboard_visibility.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/keyboard_visibility.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Samsung_M40_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yk2loqokDHEeJ2JVtpW7sTj79n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7536def-3db9-4e53-b9ce-b63732a0ad3a" name="Default Changelist" comment="" />
+      <created>1583472424061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583472424061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
