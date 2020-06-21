@@ -1,0 +1,4 @@
+# Referenced at /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/x86_64/AndroidManifest.xml:29
+-keep class com.github.adee42.keyboardvisibilityexample.MainActivity { <init>(...); }
+# Referenced at /Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/x86_64/AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(...); }

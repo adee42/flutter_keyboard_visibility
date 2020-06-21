@@ -1,0 +1,1372 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "266",
+                        "startColumns": "4",
+                        "startOffsets": "15702",
+                        "endLines": "270",
+                        "endColumns": "12",
+                        "endOffsets": "15994"
+                    }
+                },
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,319,617,3523,5588,7348,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,12,55,87,124,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,612,3518,5583,7343,7720,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,113,156,188,225,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,271,272,276,277,281,282,283",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "116,185,248,306,380,6497,9403,11468,13228,13605,13675,13743,13815,13885,13946,14020,14093,14154,14215,14277,14341,14403,14464,14532,14632,14692,14758,14831,14900,14957,15009,15071,15143,15219,15254,15289,15339,15400,15457,15491,15526,15561,15631,15999,16116,16317,16427,16628,16757,16829",
+                        "endLines": "3,4,5,6,13,155,187,224,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,271,275,276,280,281,282,283",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "180,243,301,375,673,9398,11463,13223,13600,13670,13738,13810,13880,13941,14015,14088,14149,14210,14272,14336,14398,14459,14527,14627,14687,14753,14826,14895,14952,15004,15066,15138,15214,15249,15284,15334,15395,15452,15486,15521,15556,15626,15697,16111,16312,16422,16623,16752,16824,16891"
+                    }
+                },
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/333bceb32c246d44cef9bca331d3a0c8/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,13,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,724,5935",
+                        "endLines": "2,12,101,104",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,719,5930,6075"
+                    },
+                    "to": {
+                        "startLines": "2,14,24,284",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,678,1286,16896",
+                        "endLines": "2,23,112,286",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,1281,6492,17036"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/faiyyazkhatri/StudioProjects/flutter_keyboard_visibility/example/build/app/intermediates/res/merged/release/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/faiyyazkhatri/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/edeeb1b27bebd8d938fc07e682d2afdc/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
