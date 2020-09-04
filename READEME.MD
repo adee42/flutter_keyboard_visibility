@@ -1,0 +1,1 @@
+clone from https://github.com/adee42/flutter_keyboard_visibility
