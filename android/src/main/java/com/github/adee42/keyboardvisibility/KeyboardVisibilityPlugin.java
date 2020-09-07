@@ -1,23 +1,18 @@
 package com.github.adee42.keyboardvisibility;
 
-import io.flutter.plugin.common.EventChannel;
-import io.flutter.plugin.common.EventChannel.EventSink;
-import io.flutter.plugin.common.EventChannel.StreamHandler;
-import io.flutter.plugin.common.MethodChannel;
-import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
-import io.flutter.plugin.common.MethodChannel.Result;
-import io.flutter.plugin.common.MethodCall;
-import io.flutter.plugin.common.PluginRegistry;
-import io.flutter.plugin.common.PluginRegistry.Registrar;
-
 import android.app.Activity;
 import android.app.Application;
-import android.content.Intent;
 import android.graphics.Rect;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
+
+import io.flutter.embedding.android.FlutterView;
+import io.flutter.plugin.common.EventChannel;
+import io.flutter.plugin.common.EventChannel.EventSink;
+import io.flutter.plugin.common.EventChannel.StreamHandler;
+import io.flutter.plugin.common.PluginRegistry.Registrar;
 
 
 public class KeyboardVisibilityPlugin implements StreamHandler, Application.ActivityLifecycleCallbacks, ViewTreeObserver.OnGlobalLayoutListener {
@@ -29,8 +24,17 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
 
 
     KeyboardVisibilityPlugin(Registrar registrar) {
-		this.registrar = registrar;
+        this.registrar = registrar;
         eventsSink = null;
+    }
+
+    public static void registerWith(Registrar registrar) {
+
+        final EventChannel eventChannel = new EventChannel(registrar.messenger(), STREAM_CHANNEL_NAME);
+        KeyboardVisibilityPlugin instance = new KeyboardVisibilityPlugin(registrar);
+        eventChannel.setStreamHandler(instance);
+
+        registrar.activity().getApplication().registerActivityLifecycleCallbacks(instance);
     }
 
     @Override
@@ -38,32 +42,35 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
         Rect r = new Rect();
 
         if (mainView != null) {
-			mainView.getWindowVisibleDisplayFrame(r);
+            mainView.getWindowVisibleDisplayFrame(r);
 
-			// check if the visible part of the screen is less than 85%
-			// if it is then the keyboard is showing
-			boolean newState = ((double)r.height() / (double)mainView.getRootView().getHeight()) < 0.85;
+            // check if the visible part of the screen is less than 85%
+            // if it is then the keyboard is showing
+            boolean newState = ((double) r.height() / (double) mainView.getRootView().getHeight()) < 0.85;
 
-			if (newState != isVisible) {
-				isVisible = newState;
-				if (eventsSink != null) {
-					eventsSink.success(isVisible ? 1 : 0);
-				}
-			}
-		}
+            if (newState != isVisible) {
+                isVisible = newState;
+                if (eventsSink != null) {
+                    eventsSink.success(isVisible ? 1 : 0);
+                }
+            }
+        }
     }
 
     @Override
     public void onActivityCreated(Activity activity, Bundle bundle) {
+
     }
 
     @Override
     public void onActivityStarted(Activity activity) {
-        try {
-            mainView = ((ViewGroup)activity.findViewById(android.R.id.content)).getChildAt(0);
-            mainView.getViewTreeObserver().addOnGlobalLayoutListener(this);
+        if (!checkIsFlutterActivity(activity)) {
+            return;
         }
-        catch (Exception e) {
+        try {
+            mainView = ((ViewGroup) activity.findViewById(android.R.id.content)).getChildAt(0);
+            mainView.getViewTreeObserver().addOnGlobalLayoutListener(this);
+        } catch (Exception e) {
             // do nothing
         }
     }
@@ -78,7 +85,10 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
 
     @Override
     public void onActivityStopped(Activity activity) {
-        unregisterListener();
+        if (!checkIsFlutterActivity(activity)) {
+            return;
+        }
+        unregisterListener(activity);
     }
 
     @Override
@@ -87,24 +97,40 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
 
     @Override
     public void onActivityDestroyed(Activity activity) {
-
-        unregisterListener();
     }
 
-    private void unregisterListener() {
-        if (mainView != null) {
-            mainView.getViewTreeObserver().removeOnGlobalLayoutListener(this);
-            mainView = null;
+    private void unregisterListener(Activity activity) {
+        if (activity != null) {
+            View currentMainView = getMainView(activity);
+            if (currentMainView != null) {
+                currentMainView.getViewTreeObserver().removeOnGlobalLayoutListener(this);
+            }
         }
     }
 
-    public static void registerWith(Registrar registrar) {
+    private View getMainView(Activity activity) {
+        return ((ViewGroup) activity.findViewById(android.R.id.content)).getChildAt(0);
+    }
 
-        final EventChannel eventChannel = new EventChannel(registrar.messenger(), STREAM_CHANNEL_NAME);
-        KeyboardVisibilityPlugin instance = new KeyboardVisibilityPlugin(registrar);
-        eventChannel.setStreamHandler(instance);
+    private boolean checkIsFlutterActivity(Activity activity) {
+        return findFlutterView(getMainView(activity));
+    }
 
-        registrar.activity().getApplication().registerActivityLifecycleCallbacks(instance);
+    private boolean findFlutterView(View contentView) {
+        boolean hasFlutterView = false;
+        if (contentView instanceof ViewGroup) {
+            ViewGroup parentView = (ViewGroup) contentView;
+            for (int index = 0; index < parentView.getChildCount(); index++) {
+                hasFlutterView = findFlutterView(parentView.getChildAt(index));
+                if (hasFlutterView) {
+                    break;
+                }
+            }
+        }
+        if (contentView instanceof View && !hasFlutterView) {
+            hasFlutterView = contentView instanceof FlutterView;
+        }
+        return hasFlutterView;
     }
 
     @Override

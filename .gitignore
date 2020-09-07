@@ -1,0 +1,24 @@
+.DS_Store
+.dart_tool/
+example/.dart_tool/
+
+.packages
+.pub/
+
+build/
+example/ios/Podfile.lock
+example/ios/Pods/
+flutter/tools/local.json
+flutter/ios_crash/raw_crash
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/settings.json
+.settings/
+.project
+example/android/.gradle/4.10.2/vcsMetadata-1/
