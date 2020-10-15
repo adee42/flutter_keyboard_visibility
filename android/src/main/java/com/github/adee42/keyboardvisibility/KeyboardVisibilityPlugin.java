@@ -64,6 +64,11 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
 
     @Override
     public void onActivityStarted(Activity activity) {
+
+    }
+
+    @Override
+    public void onActivityResumed(Activity activity) {
         if (!checkIsFlutterActivity(activity)) {
             return;
         }
@@ -76,19 +81,16 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
     }
 
     @Override
-    public void onActivityResumed(Activity activity) {
-    }
-
-    @Override
     public void onActivityPaused(Activity activity) {
-    }
-
-    @Override
-    public void onActivityStopped(Activity activity) {
         if (!checkIsFlutterActivity(activity)) {
             return;
         }
         unregisterListener(activity);
+    }
+
+    @Override
+    public void onActivityStopped(Activity activity) {
+
     }
 
     @Override
@@ -105,6 +107,7 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
             if (currentMainView != null) {
                 currentMainView.getViewTreeObserver().removeOnGlobalLayoutListener(this);
             }
+            mainView = null;
         }
     }
 

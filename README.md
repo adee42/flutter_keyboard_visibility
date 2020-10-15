@@ -1,17 +1,13 @@
-# keyboard_visibility
+# keyboard_visibility_hybrid
 
+clone from https://github.com/adee42/flutter_keyboard_visibility
+在原有库的基础上适配了Android混合栈，给原先的库提了pr，但貌似已经没人维护了，自己发个
 Notification service for soft-keyboard visibility
 
 # Usage
 
-Add the dependency to your pubspec.yaml file in the root folder of your project.
-Look for the 'dependencies:'-line and add the following line after this line: 
 ```
-keyboard_visibility: any
-```
-or 
-```
-keyboard_visibility: ^[CURRENT VERSION NUMBER]
+keyboard_visibility_hybrid: ^0.0.1
 ```
 
 (Please note that the two spaces in the beginning of the line are important)
