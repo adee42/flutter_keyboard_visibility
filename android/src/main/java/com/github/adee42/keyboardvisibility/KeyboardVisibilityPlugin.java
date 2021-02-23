@@ -33,8 +33,24 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
         final EventChannel eventChannel = new EventChannel(registrar.messenger(), STREAM_CHANNEL_NAME);
         KeyboardVisibilityPlugin instance = new KeyboardVisibilityPlugin(registrar);
         eventChannel.setStreamHandler(instance);
+        Application application = registrar.activity().getApplication();
+        application.registerActivityLifecycleCallbacks(instance);
+        //  引擎是在resume的时候初始化的，所以当第一个打开的页面是flutteractivity时，onResume监听不会回调，需要手动注册，这只是临时方案
+        // 把插件注册方式升级到v2就可以了
+        try{
+            Activity activity = registrar.activity();
+            if (instance.checkIsFlutterActivity(activity)){
+                View mainView = ((ViewGroup) activity.findViewById(android.R.id.content)).getChildAt(0);
+                mainView.getViewTreeObserver().addOnGlobalLayoutListener(instance);
+                instance.setMainView(mainView);
+            }
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+    }
 
-        registrar.activity().getApplication().registerActivityLifecycleCallbacks(instance);
+    public void setMainView(View mainView) {
+        this.mainView = mainView;
     }
 
     @Override
@@ -111,15 +127,15 @@ public class KeyboardVisibilityPlugin implements StreamHandler, Application.Acti
         }
     }
 
-    private View getMainView(Activity activity) {
+    public View getMainView(Activity activity) {
         return ((ViewGroup) activity.findViewById(android.R.id.content)).getChildAt(0);
     }
 
-    private boolean checkIsFlutterActivity(Activity activity) {
+    public boolean checkIsFlutterActivity(Activity activity) {
         return findFlutterView(getMainView(activity));
     }
 
-    private boolean findFlutterView(View contentView) {
+    public boolean findFlutterView(View contentView) {
         boolean hasFlutterView = false;
         if (contentView instanceof ViewGroup) {
             ViewGroup parentView = (ViewGroup) contentView;
